@@ -1,0 +1,409 @@
+2025-08-30 00:18:58,335 [INFO] Gpio:278 - dependency for GPIO [RCC]
+2025-08-30 00:20:28,412 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 608316168 Bytes (814743552)
+2025-08-30 00:20:31,208 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 643445512 Bytes (814743552)
+2025-08-30 00:20:35,015 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 312372480 Bytes (814743552)
+2025-08-30 00:20:35,418 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-08-30 00:20:35,419 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-08-30 00:20:35,420 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-08-30 00:20:35,421 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-08-30 00:20:35,422 [INFO] CodeGenerator:892 - code generatio: config db path: /opt/st/stm32cubeide_1.19.0/plugins/com.st.stm32cube.common.mx_6.15.0.202507011659//db/
+2025-08-30 00:20:35,524 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/license.tmp_save
+2025-08-30 00:20:35,859 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/license.tmp
+2025-08-30 00:20:35,937 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/gpio.tmp_save
+2025-08-30 00:20:36,101 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/gpio.tmp
+2025-08-30 00:20:36,122 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_it.c_save
+2025-08-30 00:20:36,358 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_it.c
+2025-08-30 00:20:36,362 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_it.h_save
+2025-08-30 00:20:36,434 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_it.h
+2025-08-30 00:20:36,443 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_hal_msp.c_save
+2025-08-30 00:20:36,555 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_hal_msp.c
+2025-08-30 00:20:36,559 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/system.tmp_save
+2025-08-30 00:20:36,620 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/system.tmp
+2025-08-30 00:20:36,628 [INFO] CodeEngine:321 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_hal_conf.h_save
+2025-08-30 00:20:36,708 [INFO] CodeEngine:345 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_hal_conf.h
+2025-08-30 00:20:36,773 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/main.h_save
+2025-08-30 00:20:36,904 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/main.h
+2025-08-30 00:20:36,908 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/main.c_save
+2025-08-30 00:20:37,015 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/main.c
+2025-08-30 00:20:37,222 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 29mS.
+2025-08-30 00:20:37,224 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-08-30 00:20:37,303 [INFO] ConfigFileManager:1595 - The Die is : DIE431
+2025-08-30 00:20:39,119 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 1895mS.
+2025-08-30 00:20:39,120 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-08-30 00:20:39,121 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-08-30 00:23:41,455 [INFO] Gpio:278 - dependency for GPIO [RCC]
+2025-08-30 00:23:54,540 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 668150912 Bytes (814743552)
+2025-08-30 00:23:55,883 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 689122432 Bytes (814743552)
+2025-08-30 00:24:05,232 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 259580640 Bytes (814743552)
+2025-08-30 00:24:05,359 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-08-30 00:24:05,359 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-08-30 00:24:05,360 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-08-30 00:24:05,360 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-08-30 00:24:05,360 [INFO] CodeGenerator:892 - code generatio: config db path: /opt/st/stm32cubeide_1.19.0/plugins/com.st.stm32cube.common.mx_6.15.0.202507011659//db/
+2025-08-30 00:24:05,458 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/license.tmp_save
+2025-08-30 00:24:05,508 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/license.tmp
+2025-08-30 00:24:05,517 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/gpio.tmp_save
+2025-08-30 00:24:05,579 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/gpio.tmp
+2025-08-30 00:24:05,589 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_it.c_save
+2025-08-30 00:24:05,655 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_it.c
+2025-08-30 00:24:05,658 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_it.h_save
+2025-08-30 00:24:05,706 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_it.h
+2025-08-30 00:24:05,710 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_hal_msp.c_save
+2025-08-30 00:24:05,781 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_hal_msp.c
+2025-08-30 00:24:05,782 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/system.tmp_save
+2025-08-30 00:24:05,827 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/system.tmp
+2025-08-30 00:24:05,829 [INFO] CodeEngine:321 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_hal_conf.h_save
+2025-08-30 00:24:05,881 [INFO] CodeEngine:345 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_hal_conf.h
+2025-08-30 00:24:05,896 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/main.h_save
+2025-08-30 00:24:05,948 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/main.h
+2025-08-30 00:24:05,950 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/main.c_save
+2025-08-30 00:24:06,025 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/main.c
+2025-08-30 00:24:06,189 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 22mS.
+2025-08-30 00:24:06,191 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-08-30 00:24:06,258 [INFO] ConfigFileManager:1595 - The Die is : DIE431
+2025-08-30 00:24:06,910 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 720mS.
+2025-08-30 00:24:06,913 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-08-30 00:24:06,915 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-08-30 00:36:33,628 [INFO] Gpio:278 - dependency for GPIO [RCC, SYS]
+2025-08-30 00:38:17,391 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 371001024 Bytes (814743552)
+2025-08-30 00:38:26,313 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 397215424 Bytes (814743552)
+2025-08-30 00:38:28,775 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 466683600 Bytes (814743552)
+2025-08-30 00:38:29,157 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-08-30 00:38:29,158 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-08-30 00:38:29,161 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-08-30 00:38:29,162 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-08-30 00:38:29,162 [INFO] CodeGenerator:892 - code generatio: config db path: /opt/st/stm32cubeide_1.19.0/plugins/com.st.stm32cube.common.mx_6.15.0.202507011659//db/
+2025-08-30 00:38:29,254 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/license.tmp_save
+2025-08-30 00:38:29,526 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/license.tmp
+2025-08-30 00:38:29,578 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/gpio.tmp_save
+2025-08-30 00:38:29,731 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/gpio.tmp
+2025-08-30 00:38:29,755 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_it.c_save
+2025-08-30 00:38:29,893 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_it.c
+2025-08-30 00:38:29,895 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_it.h_save
+2025-08-30 00:38:29,977 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_it.h
+2025-08-30 00:38:29,984 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_hal_msp.c_save
+2025-08-30 00:38:30,099 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_hal_msp.c
+2025-08-30 00:38:30,103 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/system.tmp_save
+2025-08-30 00:38:30,181 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/system.tmp
+2025-08-30 00:38:30,188 [INFO] CodeEngine:321 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_hal_conf.h_save
+2025-08-30 00:38:30,264 [INFO] CodeEngine:345 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_hal_conf.h
+2025-08-30 00:38:30,332 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/main.h_save
+2025-08-30 00:38:30,426 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/main.h
+2025-08-30 00:38:30,431 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/main.c_save
+2025-08-30 00:38:30,532 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/main.c
+2025-08-30 00:38:30,762 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 29mS.
+2025-08-30 00:38:30,764 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-08-30 00:38:30,855 [INFO] ConfigFileManager:1595 - The Die is : DIE431
+2025-08-30 00:38:32,070 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 1306mS.
+2025-08-30 00:38:32,071 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-08-30 00:38:32,072 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-08-30 00:47:35,748 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,593x659,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-30 00:47:55,551 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-30 00:48:00,376 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-30 00:48:15,665 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 655942632 Bytes (814743552)
+2025-08-30 00:48:17,395 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 676387816 Bytes (814743552)
+2025-08-30 00:48:21,035 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 296633960 Bytes (814743552)
+2025-08-30 00:48:21,146 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-08-30 00:48:21,146 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-08-30 00:48:21,146 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-08-30 00:48:21,147 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-08-30 00:48:21,147 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-08-30 00:48:21,147 [INFO] CodeGenerator:892 - code generatio: config db path: /opt/st/stm32cubeide_1.19.0/plugins/com.st.stm32cube.common.mx_6.15.0.202507011659//db/
+2025-08-30 00:48:21,205 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/license.tmp_save
+2025-08-30 00:48:21,251 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/license.tmp
+2025-08-30 00:48:21,261 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/gpio.tmp_save
+2025-08-30 00:48:21,312 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/gpio.tmp
+2025-08-30 00:48:21,346 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_it.c_save
+2025-08-30 00:48:21,409 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_it.c
+2025-08-30 00:48:21,410 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_it.h_save
+2025-08-30 00:48:21,458 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_it.h
+2025-08-30 00:48:21,462 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_hal_msp.c_save
+2025-08-30 00:48:21,533 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_hal_msp.c
+2025-08-30 00:48:21,534 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/system.tmp_save
+2025-08-30 00:48:21,579 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/system.tmp
+2025-08-30 00:48:21,582 [INFO] CodeEngine:321 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_hal_conf.h_save
+2025-08-30 00:48:21,636 [INFO] CodeEngine:345 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_hal_conf.h
+2025-08-30 00:48:21,656 [INFO] ApiDbMcu:532 - Load IP Config File for TIM3
+2025-08-30 00:48:21,657 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-08-30 00:48:21,657 [WARN] CodeGenerator:4259 - IP not found : null
+2025-08-30 00:48:21,659 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/main.h_save
+2025-08-30 00:48:21,712 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/main.h
+2025-08-30 00:48:21,714 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/main.c_save
+2025-08-30 00:48:21,791 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/main.c
+2025-08-30 00:48:21,961 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 22mS.
+2025-08-30 00:48:21,962 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-08-30 00:48:22,029 [INFO] ConfigFileManager:1595 - The Die is : DIE431
+2025-08-30 00:48:22,558 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 595mS.
+2025-08-30 00:48:22,558 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-08-30 00:48:22,558 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-08-30 00:52:06,258 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-30 01:05:02,009 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-30 01:05:21,488 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-30 01:05:21,546 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-30 01:22:11,657 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,593x641,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-30 01:22:23,403 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-30 01:22:25,494 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-30 01:34:52,691 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 342085736 Bytes (814743552)
+2025-08-30 01:34:54,667 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 366239464 Bytes (814743552)
+2025-08-30 01:34:58,278 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 468437096 Bytes (814743552)
+2025-08-30 01:34:58,810 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-08-30 01:34:58,811 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-08-30 01:34:58,811 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-08-30 01:34:58,811 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-08-30 01:34:58,811 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-08-30 01:34:58,812 [INFO] CodeGenerator:892 - code generatio: config db path: /opt/st/stm32cubeide_1.19.0/plugins/com.st.stm32cube.common.mx_6.15.0.202507011659//db/
+2025-08-30 01:34:59,062 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/license.tmp_save
+2025-08-30 01:34:59,545 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/license.tmp
+2025-08-30 01:34:59,589 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/gpio.tmp_save
+2025-08-30 01:34:59,762 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/gpio.tmp
+2025-08-30 01:34:59,855 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_it.c_save
+2025-08-30 01:35:00,230 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_it.c
+2025-08-30 01:35:00,234 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_it.h_save
+2025-08-30 01:35:00,334 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_it.h
+2025-08-30 01:35:00,343 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_hal_msp.c_save
+2025-08-30 01:35:00,513 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_hal_msp.c
+2025-08-30 01:35:00,515 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/system.tmp_save
+2025-08-30 01:35:00,589 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/system.tmp
+2025-08-30 01:35:00,594 [INFO] CodeEngine:321 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_hal_conf.h_save
+2025-08-30 01:35:00,675 [INFO] CodeEngine:345 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_hal_conf.h
+2025-08-30 01:35:00,702 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-08-30 01:35:00,703 [WARN] CodeGenerator:4259 - IP not found : null
+2025-08-30 01:35:00,710 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/main.h_save
+2025-08-30 01:35:00,791 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/main.h
+2025-08-30 01:35:00,795 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/main.c_save
+2025-08-30 01:35:00,896 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/main.c
+2025-08-30 01:35:01,074 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 25mS.
+2025-08-30 01:35:01,076 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-08-30 01:35:01,145 [INFO] ConfigFileManager:1595 - The Die is : DIE431
+2025-08-30 01:35:02,731 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 1655mS.
+2025-08-30 01:35:02,732 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-08-30 01:35:02,734 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-08-30 01:43:30,199 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-30 01:43:30,250 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-30 01:43:31,767 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-30 01:43:31,817 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-30 01:43:33,345 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-30 01:43:33,403 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-30 01:43:36,121 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-30 01:43:37,332 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-30 01:43:44,868 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 663580008 Bytes (814743552)
+2025-08-30 01:43:44,950 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 680357224 Bytes (814743552)
+2025-08-30 01:43:45,467 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 715222392 Bytes (814743552)
+2025-08-30 01:43:45,598 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2025-08-30 01:43:45,599 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-08-30 01:43:45,600 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-08-30 01:43:45,601 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-08-30 01:43:45,602 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-08-30 01:43:45,602 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-08-30 01:43:45,603 [INFO] CodeGenerator:892 - code generatio: config db path: /opt/st/stm32cubeide_1.19.0/plugins/com.st.stm32cube.common.mx_6.15.0.202507011659//db/
+2025-08-30 01:43:45,690 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/license.tmp_save
+2025-08-30 01:43:45,740 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/license.tmp
+2025-08-30 01:43:45,749 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/gpio.tmp_save
+2025-08-30 01:43:45,802 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/gpio.tmp
+2025-08-30 01:43:45,850 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_it.c_save
+2025-08-30 01:43:45,920 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_it.c
+2025-08-30 01:43:45,923 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_it.h_save
+2025-08-30 01:43:45,987 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_it.h
+2025-08-30 01:43:45,993 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_hal_msp.c_save
+2025-08-30 01:43:46,093 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_hal_msp.c
+2025-08-30 01:43:46,095 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/system.tmp_save
+2025-08-30 01:43:46,144 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/system.tmp
+2025-08-30 01:43:46,148 [INFO] CodeEngine:321 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_hal_conf.h_save
+2025-08-30 01:43:46,215 [INFO] CodeEngine:345 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_hal_conf.h
+2025-08-30 01:43:46,235 [INFO] ApiDbMcu:532 - Load IP Config File for SPI2
+2025-08-30 01:43:46,237 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-08-30 01:43:46,237 [WARN] CodeGenerator:4259 - IP not found : null
+2025-08-30 01:43:46,242 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/main.h_save
+2025-08-30 01:43:46,295 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/main.h
+2025-08-30 01:43:46,296 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/main.c_save
+2025-08-30 01:43:46,372 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/main.c
+2025-08-30 01:43:46,567 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 31mS.
+2025-08-30 01:43:46,568 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-08-30 01:43:46,656 [INFO] ConfigFileManager:1595 - The Die is : DIE431
+2025-08-30 01:43:47,626 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 1057mS.
+2025-08-30 01:43:47,627 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-08-30 01:43:47,628 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-08-30 01:44:29,906 [INFO] Gpio:278 - dependency for GPIO [RCC, SPI2]
+2025-08-30 01:44:49,433 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 738137456 Bytes (814743552)
+2025-08-30 01:44:49,555 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 293412744 Bytes (814743552)
+2025-08-30 01:44:50,105 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 358946696 Bytes (814743552)
+2025-08-30 01:44:50,199 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2025-08-30 01:44:50,199 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-08-30 01:44:50,199 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-08-30 01:44:50,199 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-08-30 01:44:50,199 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-08-30 01:44:50,199 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-08-30 01:44:50,200 [INFO] CodeGenerator:892 - code generatio: config db path: /opt/st/stm32cubeide_1.19.0/plugins/com.st.stm32cube.common.mx_6.15.0.202507011659//db/
+2025-08-30 01:44:50,268 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/license.tmp_save
+2025-08-30 01:44:50,315 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/license.tmp
+2025-08-30 01:44:50,323 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/gpio.tmp_save
+2025-08-30 01:44:50,369 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/gpio.tmp
+2025-08-30 01:44:50,402 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_it.c_save
+2025-08-30 01:44:50,457 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_it.c
+2025-08-30 01:44:50,458 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_it.h_save
+2025-08-30 01:44:50,504 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_it.h
+2025-08-30 01:44:50,508 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_hal_msp.c_save
+2025-08-30 01:44:50,579 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_hal_msp.c
+2025-08-30 01:44:50,580 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/system.tmp_save
+2025-08-30 01:44:50,627 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/system.tmp
+2025-08-30 01:44:50,629 [INFO] CodeEngine:321 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_hal_conf.h_save
+2025-08-30 01:44:50,682 [INFO] CodeEngine:345 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_hal_conf.h
+2025-08-30 01:44:50,692 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-08-30 01:44:50,692 [WARN] CodeGenerator:4259 - IP not found : null
+2025-08-30 01:44:50,695 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/main.h_save
+2025-08-30 01:44:50,742 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/main.h
+2025-08-30 01:44:50,744 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/main.c_save
+2025-08-30 01:44:50,820 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/main.c
+2025-08-30 01:44:50,983 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 23mS.
+2025-08-30 01:44:50,985 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-08-30 01:44:51,064 [INFO] ConfigFileManager:1595 - The Die is : DIE431
+2025-08-30 01:44:51,671 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 685mS.
+2025-08-30 01:44:51,672 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-08-30 01:44:51,673 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-08-30 02:05:40,598 [INFO] WebApp:194 - Connection lost
+2025-08-30 02:05:44,826 [INFO] WebApp:191 - Connection restablished
+2025-08-30 02:08:36,572 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 334803048 Bytes (814743552)
+2025-08-30 02:08:36,657 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 350005352 Bytes (814743552)
+2025-08-30 02:08:37,162 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 384086120 Bytes (814743552)
+2025-08-30 02:08:37,301 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2025-08-30 02:08:37,302 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-08-30 02:08:37,303 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-08-30 02:08:37,304 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-08-30 02:08:37,304 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-08-30 02:08:37,304 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-08-30 02:08:37,304 [INFO] CodeGenerator:892 - code generatio: config db path: /opt/st/stm32cubeide_1.19.0/plugins/com.st.stm32cube.common.mx_6.15.0.202507011659//db/
+2025-08-30 02:08:37,400 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/license.tmp_save
+2025-08-30 02:08:37,829 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/license.tmp
+2025-08-30 02:08:37,868 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/gpio.tmp_save
+2025-08-30 02:08:38,045 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/gpio.tmp
+2025-08-30 02:08:38,176 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_it.c_save
+2025-08-30 02:08:38,539 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_it.c
+2025-08-30 02:08:38,542 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_it.h_save
+2025-08-30 02:08:38,637 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_it.h
+2025-08-30 02:08:38,646 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_hal_msp.c_save
+2025-08-30 02:08:38,795 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_hal_msp.c
+2025-08-30 02:08:38,797 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/system.tmp_save
+2025-08-30 02:08:38,879 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/system.tmp
+2025-08-30 02:08:38,887 [INFO] CodeEngine:321 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_hal_conf.h_save
+2025-08-30 02:08:38,980 [INFO] CodeEngine:345 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_hal_conf.h
+2025-08-30 02:08:39,023 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-08-30 02:08:39,024 [WARN] CodeGenerator:4259 - IP not found : null
+2025-08-30 02:08:39,029 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/main.h_save
+2025-08-30 02:08:39,126 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/main.h
+2025-08-30 02:08:39,128 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/main.c_save
+2025-08-30 02:08:39,264 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/main.c
+2025-08-30 02:08:39,475 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 27mS.
+2025-08-30 02:08:39,476 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-08-30 02:08:39,555 [INFO] ConfigFileManager:1595 - The Die is : DIE431
+2025-08-30 02:08:40,334 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 857mS.
+2025-08-30 02:08:40,335 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-08-30 02:08:40,336 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-08-30 02:09:05,310 [INFO] WebApp:194 - Connection lost
+2025-08-30 02:09:05,553 [INFO] WebApp:191 - Connection restablished
+2025-08-30 02:35:43,317 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-08-30 02:35:43,318 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-08-30 02:35:43,436 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-08-30 02:35:43,436 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-08-30 02:35:43,437 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-08-30 02:35:43,438 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-08-30 02:35:43,552 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-08-30 02:35:43,552 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-08-30 02:35:43,556 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-08-30 02:35:43,556 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-08-30 02:36:01,824 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-08-30 02:36:01,824 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-08-30 02:36:01,831 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-08-30 02:36:01,831 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-08-30 02:36:02,449 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 647757568 Bytes (814743552)
+2025-08-30 02:36:02,563 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 663486208 Bytes (814743552)
+2025-08-30 02:36:03,091 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 699137792 Bytes (814743552)
+2025-08-30 02:36:03,401 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2025-08-30 02:36:03,409 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-08-30 02:36:03,411 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-08-30 02:36:03,414 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-08-30 02:36:03,415 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-08-30 02:36:03,415 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-08-30 02:36:03,415 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-08-30 02:36:03,417 [INFO] CodeGenerator:892 - code generatio: config db path: /opt/st/stm32cubeide_1.19.0/plugins/com.st.stm32cube.common.mx_6.15.0.202507011659//db/
+2025-08-30 02:36:03,419 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-08-30 02:36:03,419 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-08-30 02:36:03,533 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/license.tmp_save
+2025-08-30 02:36:03,926 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/license.tmp
+2025-08-30 02:36:04,001 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/gpio.tmp_save
+2025-08-30 02:36:04,196 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/gpio.tmp
+2025-08-30 02:36:04,476 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_it.c_save
+2025-08-30 02:36:04,682 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_it.c
+2025-08-30 02:36:04,684 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_it.h_save
+2025-08-30 02:36:04,768 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_it.h
+2025-08-30 02:36:04,778 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_hal_msp.c_save
+2025-08-30 02:36:04,939 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_hal_msp.c
+2025-08-30 02:36:04,940 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/system.tmp_save
+2025-08-30 02:36:05,004 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/system.tmp
+2025-08-30 02:36:05,009 [INFO] CodeEngine:321 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_hal_conf.h_save
+2025-08-30 02:36:05,088 [INFO] CodeEngine:345 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_hal_conf.h
+2025-08-30 02:36:05,117 [INFO] ApiDbMcu:532 - Load IP Config File for I2C1
+2025-08-30 02:36:05,119 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-08-30 02:36:05,120 [WARN] CodeGenerator:4259 - IP not found : null
+2025-08-30 02:36:05,125 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/main.h_save
+2025-08-30 02:36:05,231 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/main.h
+2025-08-30 02:36:05,234 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/main.c_save
+2025-08-30 02:36:05,363 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/main.c
+2025-08-30 02:36:05,527 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 28mS.
+2025-08-30 02:36:05,528 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-08-30 02:36:05,626 [INFO] ConfigFileManager:1595 - The Die is : DIE431
+2025-08-30 02:36:06,288 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 760mS.
+2025-08-30 02:36:06,288 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-08-30 02:36:06,289 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-08-30 03:06:07,991 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-08-30 03:06:07,992 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-08-30 03:06:08,071 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-08-30 03:06:08,073 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-08-30 03:06:08,074 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-08-30 03:06:08,075 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-08-30 03:06:08,211 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-08-30 03:06:08,211 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-08-30 03:06:08,217 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-08-30 03:06:08,218 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-08-30 03:06:19,946 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-08-30 03:06:19,946 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-08-30 03:06:35,619 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 392610504 Bytes (814743552)
+2025-08-30 03:06:35,790 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 409909960 Bytes (814743552)
+2025-08-30 03:06:36,420 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 448185032 Bytes (814743552)
+2025-08-30 03:06:36,511 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2025-08-30 03:06:36,511 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-08-30 03:06:36,511 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-08-30 03:06:36,511 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-08-30 03:06:36,511 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-08-30 03:06:36,512 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-08-30 03:06:36,512 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-08-30 03:06:36,512 [INFO] CodeGenerator:892 - code generatio: config db path: /opt/st/stm32cubeide_1.19.0/plugins/com.st.stm32cube.common.mx_6.15.0.202507011659//db/
+2025-08-30 03:06:36,513 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-08-30 03:06:36,513 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-08-30 03:06:36,605 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/license.tmp_save
+2025-08-30 03:06:37,007 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/license.tmp
+2025-08-30 03:06:37,053 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/gpio.tmp_save
+2025-08-30 03:06:37,230 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/gpio.tmp
+2025-08-30 03:06:37,495 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_it.c_save
+2025-08-30 03:06:37,761 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_it.c
+2025-08-30 03:06:37,764 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_it.h_save
+2025-08-30 03:06:37,848 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_it.h
+2025-08-30 03:06:37,858 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_hal_msp.c_save
+2025-08-30 03:06:38,016 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/stm32f4xx_hal_msp.c
+2025-08-30 03:06:38,019 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/system.tmp_save
+2025-08-30 03:06:38,096 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/MXTmpFiles/system.tmp
+2025-08-30 03:06:38,101 [INFO] CodeEngine:321 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_hal_conf.h_save
+2025-08-30 03:06:38,182 [INFO] CodeEngine:345 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/stm32f4xx_hal_conf.h
+2025-08-30 03:06:38,207 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-08-30 03:06:38,208 [WARN] CodeGenerator:4259 - IP not found : null
+2025-08-30 03:06:38,213 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/main.h_save
+2025-08-30 03:06:38,312 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Inc/main.h
+2025-08-30 03:06:38,314 [INFO] CodeEngine:265 - oldGeneratedFile, /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/main.c_save
+2025-08-30 03:06:38,442 [INFO] CodeEngine:289 - Generated code: /home/exati/utfpr/sistEmbarcados/First-look/Core/Src/main.c
+2025-08-30 03:06:38,622 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 30mS.
+2025-08-30 03:06:38,625 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-08-30 03:06:38,697 [INFO] ConfigFileManager:1595 - The Die is : DIE431
+2025-08-30 03:06:39,376 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 751mS.
+2025-08-30 03:06:39,377 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-08-30 03:06:39,378 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-08-30 03:10:07,338 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-08-30 03:10:07,339 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.

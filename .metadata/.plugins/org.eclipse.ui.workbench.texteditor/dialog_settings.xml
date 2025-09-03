@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="true"/>
+	<list key="searchhistory">
+		<item value="systick"/>
+		<item value="irqh"/>
+		<item value="IRQ"/>
+		<item value="TIM"/>
+		<item value="font11"/>
+		<item value="tim3"/>
+		<item value="irq"/>
+		<item value="display_init"/>
+		<item value="print("/>
+		<item value="_write"/>
+		<item value="HAl_T"/>
+		<item value="yello"/>
+		<item value="handler"/>
+		<item value="data_ready"/>
+		<item value="right"/>
+	</list>
+	<list key="replacehistory">
+		<item value="uint16_t "/>
+		<item value="int"/>
+		<item value="0x11,"/>
+		<item value="0x00,"/>
+		<item value="0xFF"/>
+		<item value="{0xFF,0xFF,0xFF,0x00,0xFF},"/>
+		<item value="display_setAddressWindow"/>
+		<item value="display_fillScreen"/>
+		<item value="display_writeCommand"/>
+	</list>
+</section>

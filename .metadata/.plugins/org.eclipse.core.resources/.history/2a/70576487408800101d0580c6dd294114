@@ -1,0 +1,29 @@
+#ifndef SRC_DISPLAY_H_
+#define SRC_DISPLAY_H_
+
+#include "main.h"
+#include "fonts.h"
+#include <string.h>
+
+// Colors for the screen (RGB565 format)
+#define BLACK   0x0000
+#define RED     0xF800
+#define GREEN   0x07E0
+#define BLUE    0x001F
+#define WHITE   0xFFFF
+#define YELLOW 0xFFE0
+
+// implemented with an ST7789, but caller doesnt need to know that
+void display_writeCommand(uint8_t cmd);
+void display_writeData(uint8_t* data, size_t len);
+void display_reset(void);
+void display_setAddressWindow(uint16_t x0, uint16_t y0, uint16_t x1, uint16_t y1);
+void display_init(void);
+void display_fillScreen(uint16_t color);
+void display_drawChar(uint16_t x, uint16_t y, char character, const Font* font, uint16_t foreground, uint16_t background);
+void display_drawBitmap(uint16_t x, uint16_t y, uint16_t w, uint16_t h, const uint8_t *data, uint16_t foreground, uint16_t background);
+void display_writeString(uint16_t x, uint16_t y, const char* str, const Font* font, uint16_t foreground, uint16_t background);
+void display_drawCircle(uint16_t x, uint16_t y, uint16_t r, uint16_t padding, uint16_t foreground, uint16_t background);
+void display_drawRectangle(uint16_t x, uint16_t y, uint16_t w, uint16_t h, uint16_t color);
+
+#endif /* SRC_DISPLAY_H_ */

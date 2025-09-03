@@ -1,0 +1,10 @@
+18:29:52 **** Incremental Build of configuration Debug for project First-look ****
+make -j16 all 
+arm-none-eabi-size  First-look.elf 
+   text	   data	    bss	    dec	    hex	filename
+  35412	   2080	   2208	  39700	   9b14	First-look.elf
+Finished building: default.size.stdout
+ 
+
+18:29:52 Build Finished. 0 errors, 0 warnings. (took 167ms)
+
