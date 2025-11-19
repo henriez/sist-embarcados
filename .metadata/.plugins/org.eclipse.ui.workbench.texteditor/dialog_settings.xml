@@ -3,23 +3,28 @@
 	<item key="hasShownOverlayPopupBefore" value="true"/>
 	<item key="replaceBarOpen" value="true"/>
 	<list key="searchhistory">
-		<item value="systick"/>
-		<item value="irqh"/>
-		<item value="IRQ"/>
-		<item value="TIM"/>
-		<item value="font11"/>
-		<item value="tim3"/>
-		<item value="irq"/>
-		<item value="display_init"/>
-		<item value="print("/>
-		<item value="_write"/>
-		<item value="HAl_T"/>
-		<item value="yello"/>
-		<item value="handler"/>
-		<item value="data_ready"/>
-		<item value="right"/>
+		<item value="sprintf"/>
+		<item value="distance"/>
+		<item value="Distance"/>
+		<item value="_read"/>
+		<item value="ultrassonic"/>
+		<item value="delay"/>
+		<item value="while(1"/>
+		<item value="sensor_timer"/>
+		<item value="htim1"/>
+		<item value="set_cou"/>
+		<item value="ultra"/>
+		<item value="ultrasso"/>
+		<item value="init("/>
+		<item value="Difference"/>
+		<item value="delay_"/>
 	</list>
 	<list key="replacehistory">
+		<item value="&amp;htim1"/>
+		<item value="dist"/>
+		<item value="diff"/>
+		<item value="htim2."/>
+		<item value="htim2"/>
 		<item value="uint16_t "/>
 		<item value="int"/>
 		<item value="0x11,"/>

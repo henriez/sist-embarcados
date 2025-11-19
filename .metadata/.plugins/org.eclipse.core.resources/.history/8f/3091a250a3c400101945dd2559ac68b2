@@ -1,0 +1,40 @@
+#include "hc12.h"
+#include <string.h>
+
+// This module assumes huart1 is already initialized in main.c
+extern UART_HandleTypeDef huart1;
+
+// Define a timeout for HAL transmissions
+#define HC12_UART_TIMEOUT 100 // 100ms timeout
+
+/**
+ * @brief Transmits a null-terminated string over the HC-12.
+ * @param str: Pointer to the string to send.
+ */
+void HC12_Transmit_String(char *str)
+{
+    if (str == NULL) {
+        return;
+    }
+
+    // Get the length of the string
+    uint16_t len = strlen(str);
+
+    // Transmit the data
+    // Note: The HC-12 just passes raw UART data.
+    HAL_UART_Transmit(&huart1, (uint8_t *)str, len, 1000);
+}
+
+/**
+ * @brief Transmits a raw array of bytes over the HC-12.
+ * @param data: Pointer to the byte array.
+ * @param length: Number of bytes to send.
+ */
+void HC12_Transmit_Bytes(uint8_t *data, uint16_t length)
+{
+    if (data == NULL || length == 0) {
+        return;
+    }
+
+    HAL_UART_Transmit(&huart1, data, length, HC12_UART_TIMEOUT);
+}

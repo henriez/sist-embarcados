@@ -11,7 +11,10 @@ RM := rm -rf
 -include sources.mk
 -include Drivers/STM32F4xx_HAL_Driver/Src/subdir.mk
 -include Core/Startup/subdir.mk
+-include Core/Src/ultrassonic_sensor/subdir.mk
+-include Core/Src/hc12/subdir.mk
 -include Core/Src/display/subdir.mk
+-include Core/Src/accelerometer/subdir.mk
 -include Core/Src/subdir.mk
 -include objects.mk
 
@@ -62,7 +65,7 @@ main-build: lab1.elf secondary-outputs
 
 # Tool invocations
 lab1.elf lab1.map: $(OBJS) $(USER_OBJS) /home/exati/utfpr/sistEmbarcados/lab1/STM32F411CEUX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "lab1.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"/home/exati/utfpr/sistEmbarcados/lab1/STM32F411CEUX_FLASH.ld" --specs=nosys.specs -Wl,-Map="lab1.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+	arm-none-eabi-gcc -o "lab1.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"/home/exati/utfpr/sistEmbarcados/lab1/STM32F411CEUX_FLASH.ld" --specs=nosys.specs -Wl,-Map="lab1.map" -Wl,--gc-sections -static -u _printf_float --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

@@ -1,0 +1,17 @@
+/*
+ * hc12.h
+ *
+ *  Created on: Oct 28, 2025
+ *      Author: exati
+ */
+
+#ifndef SRC_HC12_HC12_H_
+#define SRC_HC12_HC12_H_
+
+
+#include "main.h"
+
+void HC12_sendData(float f1, float f2, float f3);
+
+#endif /* SRC_HC12_HC12_H_ */
+

@@ -22,8 +22,11 @@ C_DEPS :=
 
 # Every subdirectory with source files must be described here
 SUBDIRS := \
+Core/Src/accelerometer \
 Core/Src/display \
+Core/Src/hc12 \
 Core/Src \
+Core/Src/ultrassonic_sensor \
 Core/Startup \
 Drivers/STM32F4xx_HAL_Driver/Src \
 

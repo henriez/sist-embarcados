@@ -1,0 +1,35 @@
+/*
+ * hc12.h
+ *
+ *  Created on: Oct 28, 2025
+ *      Author: exati
+ */
+
+#ifndef SRC_HC12_HC12_H_
+#define SRC_HC12_HC12_H_
+
+
+#include "main.h"
+
+#pragma pack(push, 1) // Garante que não haja padding de memória
+typedef struct {
+    uint8_t startByte;
+    uint8_t deviceId;
+    float   val1;
+    float   val2;
+    float   val3;
+    uint8_t checksum;
+} DataPacket;
+#pragma pack(pop)
+
+#define MY_START_BYTE 0xAA
+#define MY_DEVICE_ID  0x42  // Mude para um ID único
+
+/**
+ * @brief Transmits a null-terminated string over the HC-12.
+ * @param str: Pointer to the string to send.
+ */
+void HC12_sendData(float f1, float f2, float f3);
+
+#endif /* SRC_HC12_HC12_H_ */
+

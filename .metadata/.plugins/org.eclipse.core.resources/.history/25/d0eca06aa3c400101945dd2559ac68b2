@@ -1,0 +1,28 @@
+#include "hc12.h"
+#include <string.h>
+
+// This module assumes huart1 is already initialized in main.c
+extern UART_HandleTypeDef huart1;
+
+// Define a timeout for HAL transmissions
+#define HC12_UART_TIMEOUT 100 // 100ms timeout
+
+
+void HC12_sendData(float f1, float f2, float f3) {
+    DataPacket pkt;
+    pkt.startByte = MY_START_BYTE;
+    pkt.deviceId  = MY_DEVICE_ID;
+    pkt.val1 = f1;
+    pkt.val2 = f2;
+    pkt.val3 = f3;
+
+    // Calcula Checksum (XOR simples dos dados)
+    uint8_t *ptr = (uint8_t*)&pkt;
+    pkt.checksum = 0;
+    for(int i = 0; i < sizeof(DataPacket) - 1; i++) {
+        pkt.checksum ^= ptr[i];
+    }
+
+    // Envia via UART (exemplo usando HAL)
+    HAL_UART_Transmit(&huart1, (uint8_t*)&pkt, sizeof(DataPacket), 100);
+}
