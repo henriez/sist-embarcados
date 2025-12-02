@@ -1,2 +1,0 @@
-../Core/Src/accelerometer/accelerometer.c:8:9:accelerometer_init	4
-../Core/Src/accelerometer/accelerometer.c:38:6:accelerometer_read_XYZ	1
